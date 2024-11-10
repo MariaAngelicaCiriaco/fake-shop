@@ -5,6 +5,7 @@ http://ad13610401a5b48b99c5d775ed043df7-1430218340.us-east-1.elb.amazonaws.com/d
 ## Docker Hub
 mariaciriaco/fake-shop 
 https://hub.docker.com/r/mariaciriaco/fake-shop
+https://hub.docker.com/repository/docker/mariaciriaco/fake-shop/general
 
 ### Variável de Ambiente
 DB_HOST	=> Host do banco de dados PostgreSQL.
