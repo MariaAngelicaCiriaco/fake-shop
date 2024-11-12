@@ -18,4 +18,10 @@ DB_NAME	=>	Nome do banco de dados PostgreSQL.
 
 DB_PORT	=>	Porta de conexão com o banco de dados PostgreSQL.
 
+#### Dashboard
+![Captura de tela 2024-11-12 183504](https://github.com/user-attachments/assets/25f45ca4-fddc-462f-83ab-604afe44fd0f)
+![Captura de tela 2024-11-12 183240](https://github.com/user-attachments/assets/78e93505-3be0-4b1e-8473-a511cfca9c0e)
+
+
+
 
